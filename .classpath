@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="timetable/generators/gui/FinalLevel.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/vaisaghvt/Downloads/joda-time-2.0/joda-time-2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/vaisaghvt/Downloads/joda-time-2.0/joda-time-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/vaisaghvt/Downloads/joda-time-2.0/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/vaisaghvt/Downloads/jgoodies-looks-2.4.2/jgoodies-looks-2.4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

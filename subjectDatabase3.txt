@@ -1,0 +1,68 @@
+6
+Visual Workshop
+Alias and other stuff
+ADM
+ART292	
+0
+false
+1
+35032
+1
+TUTORIAL	THUR	18 30	21 30
+Technologically Speaking
+Blah blah blah
+AHSS
+HG8003
+0
+false
+1
+17547
+1
+LECTURE	WED	15 30	18 30
+Digital Singal Processing
+DSP related stuff
+Computer Engineering
+IM3001
+0
+false
+1
+35119
+4
+TUTORIAL	WED	8 30	9 30
+LAB	THUR	13 30	16 30
+LECTURE THUR 10 30 11 30
+LECTURE TUE 15 30 16 30 
+Engineers and Society
+blah blah blah
+EEE
+IM4040
+0
+false
+1
+35124
+2
+TUTORIAL	MON	13 30	14 30
+LECTURE	TUE 16 30 18 30 
+Database Systems
+database related stuff
+Computer Engineering
+IM4791
+0
+false
+1
+35094
+3
+TUTORIAL	TUE	13 30	14 30
+LECTURE TUE 9 30 10 30
+LECTURE FRI 11 30 12 30 
+Interface design
+more blah blah balh
+ADM
+INT210
+0
+false
+1
+64144
+1
+TUTORIAL	THUR	13 00	16 00
+

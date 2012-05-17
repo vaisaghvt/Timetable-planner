@@ -1,0 +1,93 @@
+5
+English
+This is the language of the Poms
+3
+EM01 TI03 007
+0
+true
+11 10 2009 		10 30		13 30
+2
+1005
+2
+LAB		MON		10 30 		12 25
+LAB		TUE		9 30		11 25
+1006
+2
+LAB 		TUE 	13 30		14 25
+LAB		THUR 	15 30 		16 25
+Math
+This is a subject a lot of ppl hate
+2
+MATH001 CPE201
+0
+true
+13 10 2009 	10 30	13 30
+2
+2105
+3
+LAB	MON		12 30		13 25
+LAB	TUE		8 30		9 25
+LECTURE	THUR	14 30		17 25
+2106
+3
+LAB 	WED 	7 30		8 25
+LAB	THUR 	12 00 		13 55
+LECTURE	FRI		9 30		12 25
+Software Engineering
+Most useful subject ever.
+1
+CPE307
+1	
+CPE201
+true
+13 10 2009 		14 30		17 30
+1
+2115
+3
+LAB		WED		9 30 		12 25
+LAB		TUE		16 30		19 25
+LECTURE	THUR	8 30		10 25
+Drawing in the modern era
+Most useful subject ever.
+1
+ART101
+0	
+false
+3
+3105
+3
+TUTORIAL		MON			14 30 	17 25
+LECTURE		TUE		13 30	14 10
+LECTURE		THUR		17 30 	19 25
+3106
+3
+TUTORIAL		TUE		11 30 	13 25
+LECTURE		WED		8 30 		9 25
+LECTURE		FRI			13 30	14 25
+3107
+3
+TUTORIAL 		WED 		9 30 		10 25
+LECTURE		THUR 		11 00 	11 55
+LECTURE		FRI			9 30		12 25
+Music : ek nasha
+Most useful subject ever.
+1
+MUS101
+0	
+false
+3
+4105
+3
+TUTORIAL		MON			15 30 	16 25
+LECTURE		TUE		10 30	11 10
+LECTURE		THUR		14 30 	15 25
+4106
+3
+TUTORIAL		TUE		8 30 		9 25
+LECTURE		WED		10 30 	11 25
+LECTURE		FRI			15 30	16 25
+4107
+3
+TUTORIAL 		WED 		9 30 		12 25
+LECTURE		THUR 		11 00 	13 55
+LECTURE		FRI			9 30		12 25
